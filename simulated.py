@@ -6,7 +6,7 @@ import random
 # ------------------------------------------------------------
 # CONFIGURATION
 # ------------------------------------------------------------
-NUM_PUMPS = 100
+NUM_PUMPS = 50
 INTERVAL_SECONDS = 5
 DAY_SECONDS = 24 * 60 * 60
 ROWS_PER_PUMP = DAY_SECONDS // INTERVAL_SECONDS
